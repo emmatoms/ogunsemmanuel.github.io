@@ -1,0 +1,45 @@
+Hello!
+
+Welcome to my Portfolio. 
+My name is Daniel Chang and I am excited to have you here!
+In this repository, you will come across several folders and sub-folders that contain projects that demonstrate the following, 
+but not limited to the following skills: data gathering with APIs, data wrangling, data exploration, statistical analysis, data visualization, presentation skills, etc. 
+A majority of my projects are done using the Python programming language in Jupyter Notebook. 
+Some of the most used packages are Pandas, Numpy, Seaborn and Matplotlib.
+In the following sections of this README, I will provide a short summary of my data journey and brief descriptions of the projects in each folder. Let’s get started!
+
+
+I am currently interning as a Market Consultant at Stiddle where my primary job is to write content for the company’s website, email marketing campaigns, social media campaigns, etc. 
+I had the opportunity to practice my data-related skills by gathering and analyzing from various online sources to suggest relevant topics to write and potential industries/locations to target for our social media campaigns. 
+Now, I am taking on a more analytical role in the company where I’m currently analyzing the eCommerce market.
+
+My data journey began in my last year at University of California, Santa Barbara, where I received my History bachelor degree. 
+I became mesmerized with data after learning how raw data was utilized by the United States to turn the tide of the war at the Battle of Midway in favor of the Allies. 
+Prior to this, I have taken quantitative focused courses such as statistics, linear algebra, R, etc. 
+After exploring the use of data more in different industries such as marketing, healthcare and finance, 
+I officially began my data education with Udacity with their Programming for Data Science with Python Nanodegree Program. 
+The most recent topic that I’ve learned is how to build a Machine Learning pipeline and make recommendation engines from their Data Scientist Nanodegree Program.
+
+
+Hi, I'm Tianna! I have an analytical background in Biochemistry and currently, I am on track to completing my degree in Data Science (MS. Data Science). I have developed a strong foundation in the life sciences and a passion for using data to uncover meaningful insights. I am excited to bring my technical and analytical skills to the field of data science as an entry-level data specialist.
+
+During my studies, I honed my ability to work with complex data and developed a keen eye for identifying patterns and trends. I also gained experience in laboratory techniques, data management, and statistical analysis, which I believe will be valuable assets in my role as a data specialist.
+
+In my free time, I enjoy exploring new data analysis tools and techniques, and I am always looking for opportunities to expand my knowledge and skills. Whether working on a team or independently, I am driven by the thrill of discovering new insights and the satisfaction of using data to solve complex problems.
+
+My CV in pdf.
+
+This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
+
+
+
+Hello!
+
+Welcome to my Portfolio. 
+My name is Oguns Emmanuel and I am excited to have you here!
+
+In this repository, you will come across several folders and sub-folders that contain projects that demonstrate the following, 
+but not limited to the following skills: data gathering with APIs, data wrangling, data exploration, statistical analysis, data visualization, presentation skills, etc. 
+A majority of my projects are done using the Python programming language in Jupyter Notebook. 
+Some of the most used packages are Pandas, Numpy, Seaborn and Matplotlib.
+In the following sections of this README, I will provide a short summary of my data journey and brief descriptions of the projects in each folder. Let’s get started!
